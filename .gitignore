@@ -1,0 +1,6 @@
+node_modules/
+out/
+public/*.mp3
+*.mp4
+*.log
+.env
