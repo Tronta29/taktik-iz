@@ -1,0 +1,43 @@
+{
+  "_not": "SofaScore (tarayıcıdan API, 7 Kasım 2026). Isı haritası ızgarası 12 sütun (x: kendi kalesinden rakip kaleye) x 8 satır (y), satır sırasıyla, base36 (0-z) yoğunluk. own = takımın kendi dokunuşları, opp = rakibin bu takıma karşı dokunuşları (takımın kendi yönüne çevrilmiş). Ortalama yerleşim: x 0-100 (kendi kale -> rakip kale), y 0-100.",
+  "TS": {
+    "ad": "Trabzonspor", "renk": ["#8c1538", "#4fc3ff"],
+    "own": "4bcmrjkonda96ablsgmmgb547egwxukle6948ealijfgd575ecdjnonea5a63aexsppol9b546dnrklmkca54ccntkmzliba",
+    "opp": "cenwtnmpofb29dgqpontpf957aemvrrzuhe6987dlisup9e87b9fmoniibg749dhyqsyzme767bosmmspfb5bdgsqrlrled3",
+    "oyuncular": [["Onana", 13.6, 48.6], ["Savić", 34.5, 66.7], ["Nwaiwu", 35.7, 31.1], ["Melih", 42.1, 45.6], ["Fabinho", 44.7, 49.2], ["Pina", 45.7, 16.4], ["Cabral", 47.6, 61.6], ["Onuachu", 60.1, 54.5], ["Muçi", 62.3, 48.2], ["Salah", 63.4, 30.4], ["Saviolo", 64.4, 68.1]],
+    "dokunus": {"kendi3": 29, "orta3": 49, "rakip3": 22, "rakipBizeKarsi": {"kendi3": 25, "orta3": 48, "rakip3": 27}},
+    "kurulum": {"pas": 455, "uzunTopMac": 56.1, "uzunTopPct": 12, "uzunTopIsabet": 51, "aut": 8.9, "sonUcteGiris": 56.8},
+    "sut": {"mac": 14.3, "xg": 1.94, "xgSut": 0.136, "ceza": 73, "kafa": 15, "yenenSut": 14.0, "yenenXg": 1.53, "yenenXgSut": 0.109, "yenenCeza": 58},
+    "xgDilim": {"attigi": [0.38, 0.20, 0.36, 0.41, 0.24, 0.36], "yedigi": [0.22, 0.24, 0.41, 0.23, 0.13, 0.29]}
+  },
+  "ALA": {
+    "ad": "Alanyaspor", "renk": ["#f58220", "#1b9e3e"],
+    "own": "18gmqmropged1ahnlmkle7658bkupijle6a58hftkjebb6b3bghznkgbc4738ckosljkd8745afrrmomf87358clpmspkde8",
+    "opp": "6bhklmonnac938ehjhmnle855a9gmotvufa7596fbcikk7b77a9ebhhio79768chnpozsf7458alnkkqnc95a7gqvnopnb94",
+    "oyuncular": [["Paulo Victor", 9.4, 51.8], ["Fidan Aliti", 34.1, 61.1], ["Nuno Lima", 34.8, 26.5], ["Baran Ali", 42.3, 55.6], ["Makouta", 50.0, 42.9], ["Ruan", 51.8, 81.4], ["Hadergjonaj", 52.9, 16.0], ["İbrahim", 62.2, 58.9]],
+    "dokunus": {"kendi3": 33, "orta3": 46, "rakip3": 21, "rakipBizeKarsi": {"kendi3": 24, "orta3": 48, "rakip3": 28}},
+    "kurulum": {"pas": 371, "uzunTopMac": 55.8, "uzunTopPct": 15, "uzunTopIsabet": 46, "aut": 7.8, "sonUcteGiris": 50.7},
+    "sut": {"mac": 11.4, "xg": 1.07, "xgSut": 0.094, "ceza": 61, "kafa": 21, "yenenSut": 15.3, "yenenXg": 1.69, "yenenXgSut": 0.110, "yenenCeza": 60},
+    "xgDilim": {"attigi": [0.18, 0.16, 0.08, 0.25, 0.16, 0.24], "yedigi": [0.24, 0.26, 0.37, 0.15, 0.41, 0.27]}
+  },
+  "BJK": {
+    "ad": "Beşiktaş", "renk": ["#111111", "#ffffff"],
+    "own": "137eigcnkca946dokghnle7646dvzkpskda5687omkmih8977a7klolhi9d449fysktrkcb929bgkhlrpca7379iidhqnifd",
+    "opp": "888hiehliee6436agilpqfb6458fllgtzmh6676bdhmpngmm466bcjolrnsh667hifnsyqka47ahjegpxmiaaggmhdeookd5",
+    "oyuncular": [["Nübel", 12.7, 49.5], ["Agbadou", 36.3, 35.9], ["Emirhan", 36.8, 67.9], ["Salih", 47.2, 49.5], ["Murillo", 49.1, 19.3], ["Ndidi", 49.3, 49.0], ["Rıdvan", 50.0, 84.6], ["Olaitan", 60.2, 43.0], ["Černý", 63.3, 19.3], ["Trossard", 63.5, 77.2], ["Vlahović", 68.7, 54.9]],
+    "dokunus": {"kendi3": 24, "orta3": 47, "rakip3": 28, "rakipBizeKarsi": {"kendi3": 19, "orta3": 41, "rakip3": 40}},
+    "kurulum": {"pas": 514, "uzunTopMac": 51.6, "uzunTopPct": 10, "uzunTopIsabet": 59, "aut": 5.1, "sonUcteGiris": 67.9},
+    "sut": {"mac": 16.8, "xg": 1.79, "xgSut": 0.106, "ceza": 64, "kafa": 13, "yenenSut": 10.0, "yenenXg": 0.99, "yenenXgSut": 0.099, "yenenCeza": 54},
+    "xgDilim": {"attigi": [0.27, 0.23, 0.45, 0.24, 0.27, 0.33], "yedigi": [0.03, 0.15, 0.21, 0.23, 0.17, 0.20]}
+  },
+  "GBR": {
+    "ad": "Gençlerbirliği", "renk": ["#c8102e", "#111111"],
+    "own": "578jujlpmfab4aamnlimf7a44dfqzlhlc878cncjiaab85869mbnkieda4569hfntlkja8455aejjddgd9754bfhrjimf978",
+    "opp": "edisupnska846aarnfmonc947c9komouxj979d9ecemmlaeb6h6fghnko9d99e9juluzvg9787dpolmrqfa5ddfmunkrma73",
+    "oyuncular": [["İrfan Can", 11.1, 50.3], ["Thalisson", 33.4, 69.2], ["Metehan", 34.1, 37.5], ["Diabate", 42.9, 49.1], ["Oğulcan", 51.4, 36.9], ["Tongya", 53.8, 74.5], ["Pedro Mendes", 60.3, 49.2], ["Traoré", 61.2, 20.1], ["Gouveia", 64.0, 56.8]],
+    "dokunus": {"kendi3": 32, "orta3": 47, "rakip3": 21, "rakipBizeKarsi": {"kendi3": 27, "orta3": 46, "rakip3": 27}},
+    "kurulum": {"pas": 334, "uzunTopMac": 61.1, "uzunTopPct": 18, "uzunTopIsabet": 48, "aut": 9.1, "sonUcteGiris": 49.5},
+    "sut": {"mac": 12.1, "xg": 1.15, "xgSut": 0.095, "ceza": 62, "kafa": 18, "yenenSut": 17.2, "yenenXg": 2.06, "yenenXgSut": 0.120, "yenenCeza": 70},
+    "xgDilim": {"attigi": [0.15, 0.10, 0.27, 0.27, 0.26, 0.10], "yedigi": [0.33, 0.35, 0.46, 0.41, 0.25, 0.27]}
+  }
+}
