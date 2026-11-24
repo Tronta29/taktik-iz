@@ -1,0 +1,23 @@
+{
+  "_not": "SofaScore, son 10 lig maçı, oyuncunun oynadığı maçların dokunuş ısısı. Izgara 12x8 base36. cx/cy ortalama konum (x: kendi kale->rakip kale, y: 0=takımın sağı, 100=sol). third: kendi/orta/rakip üçte bir %; width: sağ/orta/sol şerit %.",
+  "TS": [
+    {"ad": "Mohamed Salah", "m": 10, "cx": 62.9, "cy": 29.9, "third": [7, 45, 47], "width": [70, 19, 11], "grid": "0344i9jzqkbn0025ffqgumc00135awbbqak70001728be8c2103557a580b1001224278270000111102511000300101537"},
+    {"ad": "Ernest Muçi", "m": 9, "cx": 61.8, "cy": 47.7, "third": [12, 44, 43], "width": [44, 20, 36], "grid": "004alcjnt6e8020eeanpr4a2024j6g6ceeg40008206j826200488lpea6ce02068a2ceaec02068accjpn2284242al4c4z"},
+    {"ad": "Fabinho", "m": 8, "cx": 44.3, "cy": 48.7, "third": [29, 61, 10], "width": [29, 45, 26], "grid": "2222003230005326c39822003bfhtlilb020399rrtet5323289uuzifb23305fbkhtie2220038328b3300020230262000"}
+  ],
+  "ALA": [
+    {"ad": "Florent Hadergjonaj", "m": 10, "cx": 52.5, "cy": 15.6, "third": [29, 37, 34], "width": [90, 4, 6], "grid": "1amzxmrmumdk167b5998545329431211111224011101201101000010100010000111110100000001211000000000221b"},
+    {"ad": "Ruan Pereira Duarte", "m": 10, "cx": 51.4, "cy": 81.0, "third": [25, 47, 28], "width": [4, 8, 88], "grid": "1000001011002000101010113000000140111010212012232006513223221355373a56a3589ikgkaa7a353fnomzsngc3"},
+    {"ad": "Gaius Makouta", "m": 10, "cx": 49.5, "cy": 42.5, "third": [26, 52, 22], "width": [46, 35, 19], "grid": "011528b7a750004c867he71212bszdugd42212btmeba65a108agdeg77245015b7ca452001012564c6441000210441550"}
+  ],
+  "BJK": [
+    {"ad": "Dušan Vlahović", "m": 8, "cx": 68.3, "cy": 54.4, "third": [7, 35, 59], "width": [17, 51, 32], "grid": "0000101403000000000311330031307577701004179bc7m741041ccb3bz411015173fcb400000443b745000031111041"},
+    {"ad": "Leandro Trossard", "m": 9, "cx": 63.0, "cy": 76.7, "third": [11, 40, 49], "width": [3, 12, 85], "grid": "0000000131100000001100000000011231110101122442021220459336c4132b65blhrkk1518iidwsve4225gj6ezxpda"},
+    {"ad": "Salih Özcan", "m": 10, "cx": 46.8, "cy": 49.0, "third": [24, 63, 12], "width": [30, 41, 28], "grid": "2333624311022556729ea120013qvrxmd111117wyoulf100334uzopof561425onhvxf100230885bc7010016620251100"}
+  ],
+  "GBR": [
+    {"ad": "Tiago Gouveia", "m": 9, "cx": 63.6, "cy": 56.3, "third": [10, 43, 47], "width": [35, 7, 57], "grid": "0137k97fgddn0003335785450003304443580000000113310101043581731344b85795191308d1cibjf70515ji9zif5n"},
+    {"ad": "Franco Tongya", "m": 10, "cx": 53.4, "cy": 74.1, "third": [22, 45, 33], "width": [10, 9, 80], "grid": "000102425000000102400020001451602221002202401200050011614544265b79fc7578257cc87efbd82d9dz9meegb2"},
+    {"ad": "Ousmane Diabate", "m": 9, "cx": 42.5, "cy": 48.6, "third": [33, 58, 9], "width": [34, 37, 29], "grid": "034030044000044iai5850300agttlq681010a6gn6iga60036cqpzii3510589mnlrm61110158a5636000113111301000"}
+  ]
+}
