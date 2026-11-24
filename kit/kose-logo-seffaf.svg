@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280"><defs>
+<radialGradient id="bg" cx=".15" cy=".1" r="1.2"><stop offset="0" stop-color="#0E4A1C"/><stop offset=".45" stop-color="#03110A"/><stop offset=".8" stop-color="#020A05"/><stop offset="1" stop-color="#06401A"/></radialGradient>
+<radialGradient id="board" cx=".5" cy=".4" r=".8"><stop offset="0" stop-color="#14401F"/><stop offset="1" stop-color="#082412"/></radialGradient>
+<linearGradient id="n" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7CFF6B"/><stop offset="1" stop-color="#22D14A"/></linearGradient>
+<linearGradient id="sw" x1="0" x2="1"><stop offset="0" stop-color="#22D14A" stop-opacity="0"/><stop offset=".35" stop-color="#3BEA4E"/><stop offset="1" stop-color="#8CFF6E"/></linearGradient>
+<filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="10"/></filter>
+</defs><g transform="translate(20 20) scale(.5)"><g>
+ <rect x="0" y="0" width="510" height="480" rx="60" fill="none" stroke="#3BEA4E" stroke-width="14" opacity=".55" filter="url(#glow)"/>
+ <rect x="0" y="0" width="510" height="480" rx="60" fill="url(#board)" stroke="url(#n)" stroke-width="9"/>
+ <g fill="none" stroke="#4BE85A" stroke-width="4">
+  <path d="M0 240H510"/><circle cx="255" cy="240" r="52"/>
+  <rect x="135" y="0" width="240" height="78"/><rect x="195" y="0" width="120" height="30"/><path d="M220 78 a40 40 0 0 0 70 0"/>
+  <rect x="135" y="402" width="240" height="78"/><rect x="195" y="450" width="120" height="30"/><path d="M220 402 a40 40 0 0 1 70 0"/>
+ </g>
+ <circle cx="255" cy="240" r="4" fill="#4BE85A"/>
+ <g stroke="#F2F2EE" stroke-width="6" stroke-linecap="round" fill="none">
+  <path d="M168 120l26 26m0-26l-26 26"/><path d="M362 278l26 26m0-26l-26 26"/><path d="M138 334l26 26m0-26l-26 26"/>
+  <circle cx="60" cy="300" r="16"/><circle cx="403" cy="122" r="16"/>
+  <path d="M65 278 Q100 200 172 170"/><path d="M150 166 L175 168 L165 190" stroke-linejoin="round"/>
+  <path d="M245 382 Q270 330 342 330"/><path d="M322 316 L345 330 L325 344" stroke-linejoin="round"/>
+  <path d="M410 312 Q470 250 440 170" stroke-dasharray="16 12"/><path d="M425 180 L438 158 L455 178" stroke-linejoin="round"/>
+ </g></g></g><g transform="translate(310 165)"><text x="0" y="0" font-family="Montserrat" font-weight="900" font-size="120" letter-spacing="-3" fill="#F2F2EE" transform="skewX(-14)">TAKTİK<tspan dx="5" fill="url(#n)">İZ</tspan></text></g><g transform="translate(560 205)"><path d="M-250.0 18 C-112.5 -14 87.5 -24 250.0 -20 C87.5 -12 -87.5 2 -250.0 18Z" fill="url(#sw)"/></g></svg>
